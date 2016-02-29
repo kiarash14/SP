@@ -14,9 +14,22 @@
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://github.com/Josepdal/DBTeam\n\nDevelopers :\n@MaSkAoS\n@Josepdal\n\nSupport :\n@skneos\n@iicc1\n@Serx666' 
-  --[[ Checkout http://github.com/Desarrollo-Bots-Telegram-ES/DBTeam-Bot
-  --GNU GPL v2 license.]]
+  return 'TeleBumper Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://github.com/Josepdal/DBTeam\n\nDevelopers :\n@MaSkAoS\n@Josepdal\n\nSupport :\n@skneos\n@iicc1\n@Serx666' 
+  --[[ TeleBumper v5
+        
+  --http://s7.picofile.com/file/8234722668/Bumper
+
+
+  --Sudo:
+  --@kiarash_gh1 [Manager]
+
+
+  --Id Bot
+  --@TeleBumper 
+
+  --Id Channel
+  --@Bumperch
+]]
 end
 
 return {
